@@ -1,6 +1,6 @@
 # 2023-2024 NHL Playoff Predicitions
 
-If you're here, thank you for reading! I rarely do any writeups, so I apologize for any grammatical errors or tangential rants I may go on. Thanks to @bsummy for creating the web component of these awesome team pages! You can view them as well as other player advanced statistics and video that I have aggregated on my website, www.pierreanalytics.com. Without further ado, let's get into this.
+If you're here, thank you for reading! I rarely do any writeups, so I apologize for any grammatical errors or tangential rants I may go on. Thanks to [Bennett Summy](https://github.com/bsummy) for creating the web component of these awesome team pages! You can view them as well as other player advanced statistics and video that I have aggregated on my website, www.pierreanalytics.com. Without further ado, let's get into this.
 
 ## Playoff Predictions
 
